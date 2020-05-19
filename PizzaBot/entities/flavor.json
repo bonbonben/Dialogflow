@@ -1,0 +1,9 @@
+{
+  "id": "ca1afefd-13a5-47b8-b3ee-ad064eb7913d",
+  "name": "flavor",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
